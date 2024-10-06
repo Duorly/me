@@ -11,5 +11,11 @@ export default defineNuxtConfig({
     ],
     devtools: {
         enabled: true
+    },
+    fonts: {
+        provider: 'google'
+    },
+    tailwindcss:{
+        
     }
 })
